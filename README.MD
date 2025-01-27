@@ -1,0 +1,1 @@
+This is a simple program. Its task is to list the data of the hardware sensors on the screen.
